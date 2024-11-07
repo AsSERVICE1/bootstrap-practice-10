@@ -1,0 +1,82 @@
+.nav-text
+{
+    color: white;
+}
+.bgg
+{
+    background-image: url(images/hero.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: white;
+}
+.scrolll
+{
+    text-transform: uppercase; 
+    text-decoration: none;
+}
+.nav-logo
+{
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+}
+.nav-link:hover, .nav-link:focus {
+    color: white;
+}
+.title-1
+{
+    font-size: calc(100% + 4vw + 5vh);
+    font-family: manrope;
+    font-weight: medium;
+}
+.title-3
+{
+    font-size: calc(100% + 1vw + 2vh);
+    font-family: manrope;
+}
+.subtitle
+{
+    font-size: calc(5% + 1vw + 2vh);
+    font-family: manrope;
+    font-weight: 400px;
+}
+.button
+{
+    font-size: calc(100% + 4vw + 5vh);
+    font-family: manrope;
+    font-weight: 400px;
+}
+.text-2
+{
+    font-size: calc(15% + 1vw + 1vh);
+    font-family: manrope;
+}
+.text-1
+{
+    font-size: calc(39% + 1vw + 1vh);
+    font-family: manrope;
+}
+.title-2
+{
+    font-size: calc(100% + 2vw + 2vh);
+    font-family: manrope;
+}
+.abt-head
+{
+    font-family: Manrope;
+    font-size: calc(100% + 2vw + 2vh);
+}
+.footer-link
+{
+    text-decoration: none;
+
+}
+.navbar-toggler {
+    border: #fff;
+
+}
+.navbar-toggler:focus {
+    box-shadow: 0 0 0 0;
+}
